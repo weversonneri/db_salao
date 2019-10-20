@@ -1,4 +1,4 @@
 # db_salao
-Projeto basico de banco de dados para praticar triggers e procedures.
+Projeto basico de banco de dados para praticar triggers e procedures no mysql.
 
-Aprendendo GitHub.
+Aprendendo a usar GitHub.
